@@ -1,0 +1,52 @@
+/* Page1 */
+
+#page1 {
+
+}
+
+#page1 button {
+    background-color: #5ccebf;
+    border-radius: 10%;
+    padding: 2%;
+    margin: 3% auto;
+}
+
+#page1 button a {
+    text-decoration: none;
+    color: #000;
+}
+
+#page1 ul {
+    width: 100vw;
+    list-style: none;
+    padding: 0;
+}
+
+#page1 ul li {
+    width: 100%;
+}
+
+#page1 ul li .post_tweet {
+    width: 100%;
+    border-bottom: 1px solid #5ccebf;
+}
+
+#page1 ul li .post_tweet p {
+    display: inline-block;
+}
+
+.post_text {
+    width: 100%;
+}
+
+.post_text .item_text{
+    width: 64%;
+}
+
+.post_ex {
+    width: 100%;
+}
+
+.post_ex .item_ex{
+    width: 65%;
+}
